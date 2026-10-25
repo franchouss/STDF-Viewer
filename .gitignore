@@ -71,14 +71,7 @@ uv.lock
 Example Test.py
 Example Test-38-win32-64.json
 pyinstaller_hooker.py
-deps/cystdf/build
-deps/cystdf/archive
 STDF-Viewer.config
-deps/cystdf/_cystdf.cp39-win_amd64.pyd
-deps/cystdf/_cystdf.cpython-39-darwin.so
-deps/cystdf/_cystdf.cpython-39-darwin.so
-deps/cystdf/cystdf_amalgamation.c
-deps/cystdf/cython_test.py
 STDF-Viewer.config
 test.py
 
